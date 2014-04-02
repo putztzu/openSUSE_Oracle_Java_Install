@@ -7,6 +7,6 @@ do
 
    gzip -f $file
    echo "gzipped $file"
-   readlink -f /usr/lib/jdk_oracle/man/man1/file
+   readlink -f /usr/lib/jdk_Oracle/man/man1/file
    echo "readlink done"
 done
