@@ -11,6 +11,7 @@ Although scripts were created on 13.1, the scripts likely work on any version of
 Instructions:
 -------------
 Download this repository. If git is not already installed on your machine, the following command installs
+
     zypper in git
 
 After git is installed, you can clone this repository(create a copy on your local machine) with the following command so you have a local copy of the scripts
@@ -24,6 +25,7 @@ The Oracle JDK RPM can be downloaded from
 http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
 
 Install the RPM with the following command
+
     zypper in jdk*
 
 Then execute the scripts in their numbered order.
