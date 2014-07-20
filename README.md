@@ -1,7 +1,7 @@
 openSUSE_Oracle_Java_Install
 ============================
 Scripts to install Oracle Java into openSUSE
-Until this README sez differently, the scripts are a work in progress.
+Since Oracle Java 1.7 JDK appears to be frozen and superceded, until further notice these instructions are believed to reference and install Oracke JDK 1.7 reliably. If anyone finds differently, please post a bug to this repository.
 
 Requirements:
 -------------
@@ -40,4 +40,4 @@ http://en.opensuse.org/SDB:install_java
 
 
 
-Testing needed.
+
