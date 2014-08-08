@@ -1,7 +1,7 @@
 openSUSE_Oracle_Java_Install
 ============================
 Scripts to install Oracle Java into openSUSE
-Since Oracle Java 1.7 JDK appears to be frozen and superceded, until further notice these instructions are believed to reference and install Oracke JDK 1.7 reliably. If anyone finds differently, please post a bug to this repository.
+Oracle Java 1.7 JDK appears to continue to be supported actively despite an Oracle SE JDK 8 release. For that reason, these scripts will continue to be updated for the forseeable future. The scripts have been tested and believed to work reliably unless a new version is released. If any script is found not to work, simply create an issue in the Github repository.
 
 Requirements:
 -------------
@@ -29,8 +29,6 @@ Install the RPM with the following command
     zypper in jdk*
 
 Then execute the scripts in their numbered order.
-
-Scripts up to and including 5 <work> without a problem AFAIK.
 
 Based on the original instructions at
 -------------------------------------
