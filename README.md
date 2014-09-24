@@ -24,6 +24,7 @@ The scripts are based on an Oracle JDK RPM installation. If a TAR is used instea
 The Oracle JDK RPM can be downloaded from 
 http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
 
+Assuming the RPM was downloaded using a web browser, cd to your Downloads folder, then<br />
 Install the RPM with the following command
 
     zypper in jdk*
