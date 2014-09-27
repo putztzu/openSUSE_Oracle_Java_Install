@@ -27,7 +27,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.h
 Assuming the RPM was downloaded using a web browser, cd to your Downloads folder, then<br />
 Install the RPM with the following command
 
-    zypper in jdk*
+    zypper in jdk[tab to autocomplete the package name]
 
 Then execute the scripts in their numbered order.
 
