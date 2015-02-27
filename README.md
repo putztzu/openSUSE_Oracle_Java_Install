@@ -31,6 +31,12 @@ Install the RPM with the following command
 
 Then execute the scripts in their numbered order.
 
+Addendum
+--------
+To switch between installed Java, use the update-alternatives utility
+
+    update-alternatives --config java
+
 Based on the original instructions at
 -------------------------------------
 http://en.opensuse.org/SDB:install_java
