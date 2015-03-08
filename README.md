@@ -14,12 +14,12 @@ If you are a Developer creating Java apps, it may be preferable to build your ap
 The above two assertions and more can be found in the current Java Compatibility Guide<br />
 http://www.oracle.com/technetwork/java/javase/8-compatibility-guide-2156366.html 
 
-Differences in Components<br />
+__Differences in Components__<br />
 A block diagram clearly describing current SE 8 architecture can be found at
 http://www.oracle.com/technetwork/java/javase/tech/index.html
 
 Oracle SE 7 differs from the SE 8 by inspecting the block diagram
-- The three dark brown rows including and below "Java FX" are found in the JDK, not the JRE
+- The three dark brown rows including and below "Java FX" are found in the SE 7 JDK, not the JRE
 
 Incidentally, it seems to me that using this  block diagram to compare to openJDK, all of the brown rows and a number of the blue blocks (eg monitoring, security, more) are not available in openjdk.
 
