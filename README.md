@@ -27,6 +27,7 @@ Requirements:
 -------------
 openSUSE 32bit or 64bit<br />
 Although scripts were created on 13.1, the scripts likely work on any version of openSUSE
+openjdk is a prerequisite, else the directory /usr/lib64/jvm-exports would need to be created manually. AFAIK this affects only installing "openSUSE server" without a Desktop. When a Desktop is installed, openjdk is installed automatically.
 
 Instructions:
 -------------
