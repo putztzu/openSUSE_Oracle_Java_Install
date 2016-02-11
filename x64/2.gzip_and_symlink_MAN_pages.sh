@@ -1,6 +1,6 @@
 
 
-for file in /usr/java/jdk1.7.0_75/man/man1/*
+for file in /usr/java/jdk1.7.0_79/man/man1/*
 do
 #  gzip -f $(readlink -f /usr/lib64/jdk_Oracle/man/man1/file)
 #  echo "gzipped $file"

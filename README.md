@@ -3,6 +3,10 @@ openSUSE_Oracle_Java_Install
 Scripts to install Oracle Java into openSUSE
 Oracle Java 1.7 JDK appears to continue to be supported actively despite an Oracle SE JDK 8 release. For that reason, these scripts will continue to be updated for the forseeable future. The scripts have been tested and believed to work reliably unless a new version is released. If any script is found not to work, simply create an issue in the Github repository.
 
+Last scripts update
+-------------------
+This is the last scripts update supporting the last publicly released Oracle SE JDK 7u79. Oracle is releasing updates for Oracle SE JDK 8 only moving forward.
+
 Preamble: Oracle SE 8 or Oracle SE 7? JRE or JDK?
 -------------------------------------------------
 Today and probably for some time both Oracle SE 8 and Oracle SE 7 will be commonly used. So, a User may ask which one to install? Is the latest best?
